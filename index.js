@@ -5,14 +5,14 @@ class Breakfast {
     this.drink = drink;
   }
 }
-class Dog {
+class Lunch {
   constructor(salad, soup, drink) {
     this.salad = salad;
     this.soup = soup;
     this.drink = drink;
   }
 }
-class Dog {
+class Dinner {
   constructor(food, breed) {
     this.name = name;
     this.breed = breed;
