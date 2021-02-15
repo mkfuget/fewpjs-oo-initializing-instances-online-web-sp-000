@@ -13,7 +13,7 @@ class Lunch {
   }
 }
 class Dinner {
-  constructor(food, breed) {
+  constructor(salad, soup, entree, desert) {
     this.name = name;
     this.breed = breed;
   }
